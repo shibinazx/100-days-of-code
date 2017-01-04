@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 2, 2017 (Example 1)
+### Day 1: January 2, 2017 
 
 
 **Today's Progress**: Started the Android Activity.Figuring out the connecting of Instagram,Medium and Youtube.
@@ -9,7 +9,7 @@
 
 **Link to work:** [BC](https://github.com/shibinazx/BC.git)--(NB:Not Public,Will be public soon)
 
-### Day 1: January 3, 2017 (Example 1)
+### Day 1: January 3, 2017 
 
 
 **Today's Progress**: Working with instagram API
@@ -18,7 +18,7 @@
 **Link to work:** [BC](https://github.com/shibinazx/BC.git)--(NB:Not Public,Will be public soon)
 
 
-### Day 1: January 4, 2017 (Example 1)
+### Day 1: January 4, 2017 
 
 
 **Today's Progress**: Integrating instagram with firebase
